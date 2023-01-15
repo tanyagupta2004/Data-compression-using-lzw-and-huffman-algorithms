@@ -7,8 +7,8 @@ algorithm. Compression ratio is that the ratio of the uncompressed size to the
 compressed size. This ratio are often helpful in indicating complexity of data set or 
 signal. It's helpful in seeing what quantity of a file is compressed without 
 increasing its actual size.
-Compression ratio=Uncompressed size/Compressed size
-As we observe the graph above, LZW algorithm has high compression ratios for 
+Compression ratio=Uncompressed size/Compressed size.
+LZW algorithm has high compression ratios for 
 texts of small input size, while Huffman algorithm has low compression ratios 
 for the same. When the compression ratios are high, it implies that for the 
 actual input text size, the used algorithm is acceptable and might yield good 
