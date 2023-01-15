@@ -3,7 +3,6 @@ The aim of our project is to compress short text in order to reduce memory usage
 
 
 COMPRESSION RATIO:
-
 In this, we've compared the compression ratios of LZW algorithm and Huffman 
 algorithm. Compression ratio is that the ratio of the uncompressed size to the 
 compressed size. This ratio are often helpful in indicating complexity of data set or 
@@ -20,7 +19,6 @@ compression.
 
 
 TIME COMPLEXITY:
-
 Time complexity of an algorithm will be a good indicator of the performance of a 
 algorithm. As the dictionary size is fixed and independent of the input length, LZW 
 yields a time complexity of O(n) as each byte is barely read once and also the 
